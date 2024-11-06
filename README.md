@@ -6,12 +6,12 @@ About Me :
 Hey there! I'm Sai Nitin Reddy, Software Developer at Aloha Technology Pvt Ltd, with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 Skills & Interests:
 
-Programming Languages:    C, C++, Python, HTML5, CSS3, JavaScript
-Frameworks:               React, BootStrap
-Databases:                MySQL, SQLite
-Developer Tools:          Git/Github, Google Colab, Visual Studio Code
-Global Certifications:    AWS Certified Cloud Practitioner, AWS Certified Solutions Architect Associate
-                          Juniper JNCIA-JUNOS Certified, Google Cloud Certified Associate Cloud Engineer
+    Programming Languages:    C, C++, Python, HTML5, CSS3, JavaScript
+    Frameworks:               React, BootStrap
+    Databases:                MySQL, SQLite
+    Developer Tools:          Git/Github, Google Colab, Visual Studio Code
+    Global Certifications:    AWS Certified Cloud Practitioner, AWS Certified Solutions Architect Associate
+                              Juniper JNCIA-JUNOS Certified, Google Cloud Certified Associate Cloud Engineer
 
 Projects:
 
