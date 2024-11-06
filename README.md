@@ -15,11 +15,12 @@ Skills & Interests:
 
 Projects:
 
-       Retail Cars : I implemented server-side rendering with Next.js to boost performance and SEO, developed advanced
-    filtering and pagination for efficient car browsing, and used TypeScript with Tailwind CSS to ensure high code quality
-    and responsive design. 
+    Retail Cars :     I implemented server-side rendering with Next.js to boost performance and SEO, developed advanced
+                      filtering and pagination for efficient car browsing, and used TypeScript with Tailwind CSS to ensure
+                      high code quality and responsive design. 
+    
     Serverless Web Application on AWS : Automatic scalability on Vercel reduces costs, RESTful APIs streamline
-    development, and AWS enables easy user authentication.
+                                        development, and AWS enables easy user authentication.
 
 Connect with Me:
 
